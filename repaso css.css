@@ -1,0 +1,36 @@
+div{
+    border:1px solid black;
+    margin: auto;
+    width:1200px;
+}
+nav li{
+    list-style:none;
+    display:inline-block;
+    width:200px;
+    text-align:center;
+    background:aquamarine;
+    color:red;   
+}
+nav{
+    background:aquamarine;
+    color:red;
+}
+section{
+font:12px arial;
+}
+#tabla{
+    text-align:center;
+    margin:12px auto;
+}
+form{
+    float:left;
+}
+.pie a[href="C:\Users\USUARIO\Downloads\repaso html\5\6.png"]{
+    color:red;
+}
+.pie{
+clear:both;
+text-align:center;
+color:white;
+background:gray;
+}
